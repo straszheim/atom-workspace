@@ -3,4 +3,4 @@
 	url = https://github.com/nodejs/node.git
 [submodule "atom"]
 	path = atom
-	url = git@github.com:atom/atom.git
+	url = git@github.com:straszheim/atom.git
